@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Ruang Kerja Digital - Kelurahan Sindangsari",
+  "short_name": "RKD Sindangsari",
+  "description": "Disposisi tugas, presensi, izin/cuti, pelayanan, dan agenda Kelurahan Sindangsari.",
+  "lang": "id",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0F2340",
+  "theme_color": "#1E3A5F",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
